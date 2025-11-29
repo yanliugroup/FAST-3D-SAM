@@ -13,6 +13,7 @@
 ![main figure](image/image.png)
 
 ## Data preparation
+* Download the ckpt [here](https://huggingface.co/datasets/fish111111/FAST_3D_SAM).
 
 * Download the dataset [here](https://huggingface.co/datasets/fish111111/ProtoSAM/tree/main).
 
